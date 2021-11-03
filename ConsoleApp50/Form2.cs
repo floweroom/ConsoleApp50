@@ -61,7 +61,7 @@ namespace ConsoleApp50
                     }
                     else if (int.Parse(randomNo.Text) < int.Parse(input.Text))
                     {
-                        MessageBox.Show("Загаданное число меньше ");
+                        MessageBox.Show("Загаданное число меньше");
                         break;
                     }
                 }
