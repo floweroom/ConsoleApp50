@@ -72,7 +72,7 @@ namespace ConsoleApp50
         {
             if (int.TryParse(input.Text, out int number))
             {
-                number1();
+                number1();//
             }
         }
     }
